@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADprojectV</string>
+    <string name="AD_Text">城市</string>
+    <string name="WeaText">城市：%1$s 天气：%2$s 温度：%3$s 风力:%4$s</string>
+</resources>
